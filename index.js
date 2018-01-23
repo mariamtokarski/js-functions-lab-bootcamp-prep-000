@@ -9,13 +9,13 @@ function happyHolidaysTo(name){
 }
 
 function happyHolidayTo(holiday, name){
-  var holiday = "Mother's Day"
+  var holiday = "Independence Day"
   var name = "you"
   return `Happy ${holiday}, ${name}!`
 }
 
 function holidayCountdown(holiday,days){
-  var holiday = "Independence Day"
+  var holiday = "Mother's Day"
   var day = "20"
   return `It's ${days} days until ${holiday}!`
 }
